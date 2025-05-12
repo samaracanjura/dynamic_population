@@ -12,8 +12,8 @@ The simulation uses a .gml network file to model how information or disease prop
 ``` pip install networkx matplotlib ```
 
 # Files: 
-dynamic_population.py: Main script to run the simulation
-cascadebehavior.gml : Sample network graph in GML format
+- dynamic_population.py: Main script to run the simulation
+- cascadebehavior.gml : Sample network graph in GML format
 
 # How to Run: 
 Navigate to the folder containing the files and run: 
